@@ -65,5 +65,5 @@ This repository documents a structured learning journey from foundational concep
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/<username>/cs-to-ai-engineering.git
+git clone https://github.com/BusraCevik/cs-to-ai-engineering.git
 
