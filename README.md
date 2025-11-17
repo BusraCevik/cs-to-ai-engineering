@@ -1,6 +1,6 @@
 # cs-to-ai-engineering
 **A comprehensive learning and project notebook for Python, Computer Science, and AI & Data Science.**
-A growing Python, Computer Science, and AI &amp; Data Science notebook. Documenting my journey from algorithms and data structures to AI/ML projects. Continuously updated as I learn and progress.
+Documenting my journey from algorithms and data structures to AI/ML projects. Continuously updated as I learn and progress.
 
 This repository documents a structured learning journey from foundational concepts to advanced topics in AI and Data Science. It covers algorithms, data structures, Python engineering, data processing, machine learning (ML), and AI fundamentals.
 
