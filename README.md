@@ -15,55 +15,49 @@ This repository organizes a structured learning path from beginner to advanced A
 - Beginner-level snippets and exercises
 - Mini projects: small scripts, math challenges, mini games
 
-### 02_python_advanced
-- Python OOP: classes, inheritance, dunder methods
-- Modular programming, packages, virtual environments
-- File handling, error management, unit testing
-- Pythonic coding practices and advanced topics
-
-### 03_algorithms
+### 02_algorithms
 - Core and advanced algorithms
 - Binary Search, Sorting, Searching
 - Recursion, Two Pointers, Sliding Window techniques
 - Exercises and mini projects
 
-### 04_data_structures
+### 03_data_structures
 - Arrays, Linked Lists, Stacks, Queues
 - Trees, Heaps, Hash Tables
 - Pseudocode, examples, Python implementations
 
-### 05_advanced_cs
+### 04_advanced_cs
 - Dynamic Programming
 - Graph Algorithms: BFS, DFS, Dijkstra
 - Greedy Approaches
 - Competitive programming tricks
 
-### 06_numpy
+### 05_numpy
 - Numerical computations, broadcasting, indexing
 - Linear algebra operations and performance optimization
 - Mini exercises: Linear regression, matrix operations
 
-### 07_pandas
+### 06_pandas
 - Data manipulation and analysis
 - Exploratory Data Analysis (EDA) and feature engineering
 - Mini projects using real datasets
 
-### 08_ai_fundamentals
+### 07_ai_fundamentals
 - Basic ML algorithms: Linear & Logistic Regression, kNN, Decision Trees
 - Model evaluation and metrics
 - End-to-end small ML pipelines
 
-### 09_machine_learning
+### 08_machine_learning
 - Supervised & Unsupervised Learning
 - Model pipelines, cross-validation, feature engineering
 - Mini AI projects (chatbots, recommendation systems)
 
-### 10_data_engineering_basics
+### 9_data_engineering_basics
 - Data cleaning and building pipelines
 - Basic SQL for data manipulation
 - Small ETL projects
 
-### 11_projects
+### 10_projects
 - Beginner: Python scripts, mini games, small algorithm projects
 - Intermediate: Titanic EDA, House Prices regression/classification, Iris dataset
 - Advanced: MNIST digit classifier, Cats vs Dogs CNN, Sentiment Analysis on Tweets
