@@ -1,58 +1,76 @@
 # cs-to-ai-engineering
 
 **A comprehensive learning and project notebook for Python, Computer Science, and AI & Data Science.**  
-Documenting my journey from algorithms and data structures to AI/ML projects. Continuously updated as I learn and progress.
+Documenting my journey from Python fundamentals to advanced AI/ML projects. Continuously updated as I learn and progress.
 
-This repository documents a structured learning journey from foundational concepts to advanced topics in AI and Data Science. It covers algorithms, data structures, Python engineering, data processing, machine learning (ML), and AI fundamentals.
+This repository organizes a structured learning path from beginner to advanced AI & Data Science topics. It includes Python programming, algorithms, data structures, data processing, machine learning, and AI fundamentals, along with mini projects and end-to-end workflows.
 
 ---
 
 ## 📚 Contents
 
-### 01_algorithms
+### 01_python_basics
+- Python fundamentals: syntax, data types, variables, operators
+- Functions, loops, conditionals
+- Beginner-level snippets and exercises
+- Mini projects: small scripts, math challenges, mini games
+
+### 02_python_advanced
+- Python OOP: classes, inheritance, dunder methods
+- Modular programming, packages, virtual environments
+- File handling, error management, unit testing
+- Pythonic coding practices and advanced topics
+
+### 03_algorithms
 - Core and advanced algorithms
 - Binary Search, Sorting, Searching
 - Recursion, Two Pointers, Sliding Window techniques
+- Exercises and mini projects
 
-### 02_data_structures
+### 04_data_structures
 - Arrays, Linked Lists, Stacks, Queues
 - Trees, Heaps, Hash Tables
+- Pseudocode, examples, Python implementations
 
-### 03_advanced_cs
+### 05_advanced_cs
 - Dynamic Programming
-- Graph Algorithms
+- Graph Algorithms: BFS, DFS, Dijkstra
 - Greedy Approaches
+- Competitive programming tricks
 
-### 04_python_engineering
-- Python OOP & Modular Programming
-- File Handling and Error Management
-- Pythonic coding practices and advanced topics
-
-### 05_numpy
+### 06_numpy
 - Numerical computations, broadcasting, indexing
 - Linear algebra operations and performance optimization
+- Mini exercises: Linear regression, matrix operations
 
-### 06_pandas
+### 07_pandas
 - Data manipulation and analysis
 - Exploratory Data Analysis (EDA) and feature engineering
+- Mini projects using real datasets
 
-### 07_ai_fundamentals
+### 08_ai_fundamentals
 - Basic ML algorithms: Linear & Logistic Regression, kNN, Decision Trees
 - Model evaluation and metrics
+- End-to-end small ML pipelines
 
-### 08_machine_learning
+### 09_machine_learning
 - Supervised & Unsupervised Learning
-- Model pipelines and cross-validation
+- Model pipelines, cross-validation, feature engineering
+- Mini AI projects (chatbots, recommendation systems)
 
-### 09_data_engineering_basics
+### 10_data_engineering_basics
 - Data cleaning and building pipelines
 - Basic SQL for data manipulation
+- Small ETL projects
 
-### 10_projects
-- Mini projects: Algorithms, Data Analysis, AI / ML projects
-- All projects are in Jupyter Notebook format and runnable
+### 11_projects
+- Beginner: Python scripts, mini games, small algorithm projects
+- Intermediate: Titanic EDA, House Prices regression/classification, Iris dataset
+- Advanced: MNIST digit classifier, Cats vs Dogs CNN, Sentiment Analysis on Tweets
+- All projects are in Jupyter Notebook format, runnable, and documented with explanations and visualizations
 
 ---
+
 
 ## 🏆 Goals
 
